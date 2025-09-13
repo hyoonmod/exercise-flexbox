@@ -1,6 +1,5 @@
 body {
 font-family: "Sono", sans-serif;
-
 }
 
 /* Hint: What can you do with a media query and flexbox? */
@@ -55,5 +54,5 @@ font-family: "Sono", sans-serif;
     color: white;
     border: none;
     padding: 12px 15px;
-    border-radius: 10px;
+    border-radius: 12px;
 }
